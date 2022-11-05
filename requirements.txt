@@ -1,3 +1,5 @@
 Django>=3.2.4,<3.3.0
 djangorestframework>=3.12.4,<3.13
-flake8>=3.9.2,<3.10
+psycopg2>=2.8.6,<2.9
+flake8>=3.9.2,<3.10 
+Pillow>=9.3,<9.4
