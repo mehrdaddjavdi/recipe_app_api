@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "core.apps.CoreConfig",
     "rest_framework",
     "drf_spectacular",
+    "user.apps.UserConfig",
 ]
 
 MIDDLEWARE = [
